@@ -3,8 +3,9 @@
 [Check it out LIVE](https://stankovics.github.io/Mapty-project/)
 
 This is project from advanced JavaScript course
-includes:
-using of localStorage and external library [Leaflet](https://leafletjs.com/)
+Includes:
+- using of localStorage API
+- external library [Leaflet](https://leafletjs.com/)
 
 # Flowchart
 ![Flowchart](https://i.imgur.com/nWTpK8v.png)
